@@ -9,8 +9,6 @@ import FilterAltSharpIcon from "@mui/icons-material/FilterAltSharp";
 import AddSharpIcon from "@mui/icons-material/AddSharp";
 import CreateSharpIcon from "@mui/icons-material/CreateSharp";
 import DeleteOutlineOutlinedIcon from "@mui/icons-material/DeleteOutlineOutlined";
-import Photo from "../Photo/mypic (2).jpg";
-
 interface FormData {
   profileImage: string;
   name: string;
