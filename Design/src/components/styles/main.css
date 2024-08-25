@@ -1,0 +1,15 @@
+.main-content {
+    display: flex;
+    height: 100vh; /* Make sure it takes the full height of the viewport */
+  }
+  
+  .sidebar {
+    width: 250px; /* Fixed width for the sidebar */
+    flex-shrink: 0; /* Prevent the sidebar from shrinking */
+    border-right: 1px solid rgb(168, 167, 167);
+  }
+  
+  .welcome {
+    flex-grow: 1; /* Allow the welcome section to take the remaining space */
+    padding: 20px; /* Add some padding if needed */
+  }

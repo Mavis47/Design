@@ -1,0 +1,12 @@
+.welcome-page{
+    margin: 27px;
+    border: 1px solid rgb(182, 182, 182);
+    border-radius: 20px;
+    width: 90%
+}
+
+.welcome-page span{
+    margin-left: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}

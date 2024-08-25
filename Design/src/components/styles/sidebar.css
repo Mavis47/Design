@@ -1,0 +1,8 @@
+.sidebar-container{
+    width: 200px;
+    border-right: 1px solid grey;
+}
+
+ul{
+    padding: 21px;
+}
